@@ -38,7 +38,7 @@ async function carregarStatus() {
             "offline";
 
         elementoMensagem.textContent =
-            "Não foi possível acessar o backend.";
+            "Não foi possível acessar o backend!";
 
         elementoVersao.textContent =
             "-";
